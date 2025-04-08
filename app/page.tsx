@@ -64,7 +64,7 @@ export default function Home() {
         <section id="inicio" className="relative overflow-hidden">
           <div className="absolute inset-0 z-0">
             <Image
-              src="/placeholder.svg?height=800&width=1600"
+              src="altura.webp/?height=800&width=1600"
               alt="Artesano tejiendo"
               fill
               className="object-cover opacity-30"
@@ -117,7 +117,7 @@ export default function Home() {
               </div>
               <div className="relative h-[400px] rounded-lg overflow-hidden shadow-xl">
                 <Image
-                  src="/placeholder.svg?height=400&width=600"
+                  src="coroneo-guanajuato.jpg?height=400&width=600"
                   alt="Paisaje de Coroneo"
                   fill
                   className="object-cover"
